@@ -30,6 +30,6 @@ console.log(url.includes('sam'));
 
 
 
-
+//sort(),join(),split().
 
 
