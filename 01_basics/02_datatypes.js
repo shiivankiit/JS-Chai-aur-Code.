@@ -1,8 +1,8 @@
 "use strict" //treat all code as a new version of javascript.
 //Total 8 datatypes.
-// String
-// Number
-// Bigint
+// String.
+// Number.
+// Bigint.
 // Boolean
 // Undefined
 // Null
